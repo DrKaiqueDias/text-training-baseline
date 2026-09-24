@@ -1,0 +1,18 @@
+{"text":"The claim lacks evidence and needs a source","label":"factuality"}
+{"text":"A factual statement contradicts the cited document","label":"factuality"}
+{"text":"The answer invents a date without evidence","label":"factuality"}
+{"text":"Check the source before accepting this claim","label":"factuality"}
+{"text":"The cited source does not support the conclusion","label":"factuality"}
+{"text":"The factual answer needs a reliable citation","label":"factuality"}
+{"text":"The response ignores the required JSON format","label":"format"}
+{"text":"Return the answer in the requested list format","label":"format"}
+{"text":"The output is missing a required field","label":"format"}
+{"text":"The JSON response contains an extra field","label":"format"}
+{"text":"Follow the requested format and length limit","label":"format"}
+{"text":"The list has more items than the format allows","label":"format"}
+{"text":"Remove the private email from the response","label":"privacy"}
+{"text":"The answer exposes personal contact details","label":"privacy"}
+{"text":"Redact the private address before sharing","label":"privacy"}
+{"text":"This output includes a personal phone number","label":"privacy"}
+{"text":"Avoid sharing private details about the customer","label":"privacy"}
+{"text":"The response should not reveal personal information","label":"privacy"}

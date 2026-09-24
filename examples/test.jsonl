@@ -1,0 +1,6 @@
+{"text":"This claim has no reliable evidence","label":"factuality"}
+{"text":"The citation does not support that factual statement","label":"factuality"}
+{"text":"The requested JSON field is missing","label":"format"}
+{"text":"The response breaks the required list format","label":"format"}
+{"text":"The answer shares a private phone number","label":"privacy"}
+{"text":"Remove personal contact information before sharing this","label":"privacy"}
